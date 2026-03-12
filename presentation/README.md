@@ -1,6 +1,6 @@
 # TIPE — Energy Conversion in a Resonant Cavity
 
-**From Wind to Electricity** · Denis O. · N° SCEI 38936 · 2024–2025
+**From Wind to Electricity** · Denis O. · 2024–2025
 
 ---
 
@@ -8,8 +8,8 @@
 
 | File | Description |
 |---|---|
-| `tipe_resonant-cavity-en.tex` | LaTeX source (Beamer, 16:9) |
-| `tipe_resonant-cavity-en.pdf` | Compiled slide deck (20 pages + appendices) |
+| `tipe_resonant-cavity-fr.pdf` | Compiled slide (french) |
+| `tipe_resonant-cavity-en.pdf` | Compiled slide (english) |
 
 ---
 
