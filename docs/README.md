@@ -1,8 +1,6 @@
-# docs
+# Docs
+MCOT sheets and project documentation.
 
-Fiches MCOT et documentation du projet.
-
-## Contenu
-
-- `Mcot-fr.pdf` — Fiche MCOT en français
-- `Mcot-en.pdf` — Fiche MCOT en anglais
+## Contents
+- `Mcot-fr.pdf` — MCOT sheet (French)
+- `Mcot-en.pdf` — MCOT sheet (English)
