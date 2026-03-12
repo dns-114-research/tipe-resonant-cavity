@@ -1,17 +1,15 @@
-# Présentation
+# Presentation
 
-Diaporama de soutenance TIPE.
+TIPE defence slide deck.
 
-## Fichiers
+## Files
+- `tipe_resonant-cavity.pdf` — Presentation slides
 
-- `tipe_denis_resonant-cavity.pptx` — Support de présentation (à ajouter)
-
-## Plan suggéré
-
-1. **Contexte & motivation** — transition énergétique, instruments à vent → inspiration
-2. **Problématique** — amplification par résonance couplée → conversion piézoélectrique
-3. **Modèle théorique** — résonateur de Helmholtz, fréquence, couplage lame/cavité
-4. **Dispositif expérimental** — canettes, quartz, protocole de mesure
-5. **Résultats** — fréquences mesurées vs calculées, tensions produites
-6. **Simulation** — conditions réelles, validation des hypothèses
-7. **Conclusion & perspectives** — rendement, optimisation matériaux, mise à l'échelle
+## Suggested outline
+1. **Context & motivation** — energy transition, wind instruments → inspiration
+2. **Research question** — amplification via coupled resonance → piezoelectric conversion
+3. **Theoretical model** — Helmholtz resonator, resonant frequency, blade/cavity coupling
+4. **Experimental setup** — aluminium cans, quartz, measurement protocol
+5. **Results** — measured vs. calculated frequencies, output voltages
+6. **Simulation** — real-world conditions, hypothesis validation
+7. **Conclusion & perspectives** — efficiency, material optimisation, scaling
