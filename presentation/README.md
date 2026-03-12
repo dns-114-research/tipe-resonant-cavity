@@ -58,18 +58,6 @@
 
 ---
 
-## Compilation
-
-Requires a standard **TeX Live** installation with the following packages:
-`beamer`, `pgfplots`, `tikz`, `booktabs`, `amsmath`.
-
-```bash
-pdflatex tipe_resonant-cavity-en.tex
-pdflatex tipe_resonant-cavity-en.tex   # second pass for the TOC
-```
-
----
-
 ## Keywords
 
 `Helmholtz resonance` · `Coupled resonance` · `Piezoelectricity` ·
