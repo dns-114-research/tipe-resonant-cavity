@@ -1,6 +1,6 @@
 # TIPE — Energy Conversion in a Resonant Cavity
 
-**From Wind to Electricity** · Denis Ozdemir · N° SCEI 38936 · 2024–2025
+**From Wind to Electricity** · Denis O. ·  2024–2025
 
 ---
 
