@@ -1,26 +1,26 @@
-# Expériences
+# Experiments
 
-## Protocoles
+## Protocols
 
-### Exp. 1 — Validation de la fréquence de résonance (Jan. 2025)
-- **Dispositif :** canettes aluminium modélisées comme résonateurs de Helmholtz
-- **Mesure :** fréquence d'amplification acoustique par microphone + FFT
-- **Résultat :** concordance avec le modèle théorique ✓
+### Exp. 1 — Resonant frequency validation (Jan. 2025)
+- **Setup:** aluminium cans modelled as Helmholtz resonators
+- **Measurement:** acoustic amplification frequency via microphone + FFT
+- **Result:** agreement with theoretical model ✓
 
-### Exp. 2 — Couplage avec dispositifs intermédiaires (Jan.–Fév. 2025)
-- Résultats non concluants — voir notes dans `/data`
+### Exp. 2 — Coupling with intermediate devices (Jan.–Feb. 2025)
+- Inconclusive results — see notes in `/data`
 
-### Exp. 3 — Lame vibrante couplée au résonateur (Mars 2025)
-- **Dispositif :** lame flexible + résonateur de Helmholtz + quartz piézoélectrique
-- **Mesure :** tension en sortie du quartz selon fréquence d'excitation
-- **Résultat :** amplification significative au voisinage de la fréquence couplée ✓
+### Exp. 3 — Vibrating blade coupled to the resonator (Mar. 2025)
+- **Setup:** flexible blade + Helmholtz resonator + piezoelectric quartz
+- **Measurement:** quartz output voltage as a function of excitation frequency
+- **Result:** significant amplification near the coupled resonance frequency ✓
 
-### Exp. 4 — Conditions réelles (Mai–Juin 2025)
-- Tests fonctionnels sous flux d'air constant
-- Vérification des hypothèses du modèle
+### Exp. 4 — Real-world conditions (May–Jun. 2025)
+- Functional tests under constant airflow
+- Verification of model assumptions
 
-## Matériel utilisé
-- Canettes aluminium (volume et col mesurés au pied à coulisse)
-- Quartz piézoélectrique
-- Oscilloscope / multimètre
-- Source de flux d'air contrôlé
+## Equipment
+- Aluminium cans (volume and neck measured with a caliper)
+- Piezoelectric quartz
+- Oscilloscope / multimeter
+- Controlled airflow source
